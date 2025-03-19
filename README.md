@@ -1,4 +1,4 @@
-# **Intern Intelligence: Data Analysis on Global Development Indicators**
+# **Data Analysis on Global Development Indicators**
 
 ## **Project Overview**  
 This project focuses on **analyzing global development indicators** using the **Gapminder dataset**. The analysis includes **data exploration, visualization, and factor analysis** to uncover patterns related to **life expectancy, GDP, CO2 consumption, and Human Development Index (HDI)**.
